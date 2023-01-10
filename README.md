@@ -1,8 +1,8 @@
 # ROADMAP
 * [APTITUDE](#aptitude)
   * [Tables](#tables)
-  * [Squares & Cubes](#set-2-play-with-strings)
-  * [Miscellaneous](#set-3-misc)
+  * [Squares](#squares)
+  * [Cubes](#cubes)
 * [REASONING](#time--space-complexity)
 
 ---
@@ -15,3 +15,9 @@
 ### SQUARES
 
 <img src="https://github.com/shauryatalkss/sbipo/blob/main/SQUARE.png" width="400"/>
+
+### CUBES
+
+<img src="https://github.com/shauryatalkss/sbipo/blob/main/cubes.jpg" width="400"/>
+
+
