@@ -3,6 +3,8 @@
   * [Tables](#tables)
   * [Squares](#squares)
   * [Cubes](#cubes)
+  * [Data Interpretation](#data-interpretation)
+    * [Bar Graph](#bar-graph)
 * [REASONING](#time--space-complexity)
 
 ---
