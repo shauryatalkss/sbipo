@@ -24,3 +24,5 @@
 
 ### DATA INTERPRETATION
 
+#### BAR GRAPH
+
