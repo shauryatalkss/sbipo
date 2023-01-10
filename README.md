@@ -6,3 +6,8 @@
 * [REASONING](#time--space-complexity)
 
 ---
+## APTITUDE
+
+### TABLES
+
+[12](https://www.javatpoint.com/fibonacci-series-in-java) | [12](https://www.javatpoint.com/fibonacci-series-in-java)
